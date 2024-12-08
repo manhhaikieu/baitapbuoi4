@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\baitapbuoi4\baitapbuoi4\bin\Debug\baitapbuoi4.exe.config
+C:\Users\LENOVO\source\repos\baitapbuoi4\baitapbuoi4\bin\Debug\baitapbuoi4.exe
+C:\Users\LENOVO\source\repos\baitapbuoi4\baitapbuoi4\bin\Debug\baitapbuoi4.pdb
+C:\Users\LENOVO\source\repos\baitapbuoi4\baitapbuoi4\obj\Debug\baitapbuoi4.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\baitapbuoi4\baitapbuoi4\obj\Debug\baitapbuoi4.Form1.resources
+C:\Users\LENOVO\source\repos\baitapbuoi4\baitapbuoi4\obj\Debug\baitapbuoi4.FormNhanVien.resources
+C:\Users\LENOVO\source\repos\baitapbuoi4\baitapbuoi4\obj\Debug\baitapbuoi4.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\baitapbuoi4\baitapbuoi4\obj\Debug\baitapbuoi4.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\baitapbuoi4\baitapbuoi4\obj\Debug\baitapbuoi4.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\baitapbuoi4\baitapbuoi4\obj\Debug\baitapbuoi4.exe
+C:\Users\LENOVO\source\repos\baitapbuoi4\baitapbuoi4\obj\Debug\baitapbuoi4.pdb
